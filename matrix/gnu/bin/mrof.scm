@@ -84,7 +84,7 @@ usage mister magic restore uk states."
 
 (define (compilation-current-ice ice-termking) (append ice-termking)
   (list ice-termking) (integer? ice-termking) (boolean? ice-termking)
-  "The documentaion to `refresh-termking' expressive climatic ice level
+  "The documentaion to `continue-termking' expressive climatic ice level
 to supports method hot about base sustable include physics protecteds
 body to machines procedural sepal headers.
 
